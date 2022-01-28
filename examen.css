@@ -1,0 +1,52 @@
+body{
+background-color:coral;
+}
+
+.backgroundimage{
+    padding: 20px;
+    margin: 20px;
+    width: 13%;
+    border:2px solid black;
+}
+
+#header{
+    text-align: center;
+    font-size: 50px;
+    border: 5px solid black;
+    border-radius: 50%;
+    font-style: italic;
+    
+}
+
+#container{
+    background-color: beige;
+    border: 5px solid black;
+}
+
+#info{
+    background-color: beige;
+    padding:10px;
+    margin-bottom:10px;
+    border: 5px solid black;
+}
+
+#clock{
+    margin-left: 1200px;
+    border: 2px solid black;
+    padding:10px;
+    border-radius: 50%;
+    border-style: dotted;
+}
+
+.extra{
+    display: inline-flex;
+    font-size: 30px;
+    
+}
+
+#endgame{
+    text-align: center;
+    border:5px solid black;
+    color: black;
+    font-size: 50px;
+}
